@@ -27,4 +27,9 @@ export class HeroeComponent {
     this.age = 25//this.age==49? this.age=22:this.age = 49;
   }
 
+  resetValues():void{
+    this.name = 'Ironman'
+    this.age = 49
+  }
+
 }
