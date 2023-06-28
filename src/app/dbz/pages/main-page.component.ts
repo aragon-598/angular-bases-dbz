@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
 })
 
 export class MainPageComponent {
-    
+    public title:string = 'DBZ Personajes';
 }
