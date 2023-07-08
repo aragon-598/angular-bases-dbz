@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.1.
 
+## Deployments
+- https://64a8c8ce4bbc523450702b8c--warm-pastelito-957ebc.netlify.app/
+- https://aragon-598.github.io/angular-bases-dbz/
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
